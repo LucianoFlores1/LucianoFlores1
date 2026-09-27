@@ -25,7 +25,7 @@
     <text y="13" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E2E8F0">TypeScript</text>
     <rect x="120" y="3" width="346" height="12" rx="4" fill="#fff" fill-opacity=".04"/>
     <rect class="grow" style="animation-delay:0.15s" x="120" y="3" width="346.0" height="12" rx="4" fill="#F472B6" fill-opacity="0.95"/>
-    <text x="524" y="13" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#94A3B8">68.7%</text>
+    <text x="524" y="13" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#94A3B8">68.8%</text>
   </g><g transform="translate(32 90)">
     <text y="13" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E2E8F0">Dart</text>
     <rect x="120" y="3" width="346" height="12" rx="4" fill="#fff" fill-opacity=".04"/>
@@ -34,7 +34,7 @@
   </g><g transform="translate(32 116)">
     <text y="13" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E2E8F0">JavaScript</text>
     <rect x="120" y="3" width="346" height="12" rx="4" fill="#fff" fill-opacity=".04"/>
-    <rect class="grow" style="animation-delay:0.35s" x="120" y="3" width="33.8" height="12" rx="4" fill="#F472B6" fill-opacity="0.75"/>
+    <rect class="grow" style="animation-delay:0.35s" x="120" y="3" width="33.7" height="12" rx="4" fill="#F472B6" fill-opacity="0.75"/>
     <text x="524" y="13" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#94A3B8">6.7%</text>
   </g><g transform="translate(32 142)">
     <text y="13" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E2E8F0">CSS</text>
