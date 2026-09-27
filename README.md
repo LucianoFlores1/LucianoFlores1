@@ -31,28 +31,18 @@ Hago productos de punta a punta: **webs y apps con React / Next.js**, **apps And
       <p align="center"><a href="https://empleos-salta.vercel.app"><b>▶ Demo</b></a> · <a href="https://github.com/LucianoFlores1/empleos-salta">Código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tron-snake.vercel.app"><img src="./assets/cards/tron-snake.svg" alt="Tron Snake" width="100%"></a>
-      <p align="center"><a href="https://tron-snake.vercel.app"><b>▶ Jugar</b></a> · <a href="https://github.com/LucianoFlores1/tron-snake">Código</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/LucianoFlores1/EasyTube"><img src="./assets/cards/easytube.svg" alt="EasyTube" width="100%"></a>
       <p align="center"><a href="https://github.com/LucianoFlores1/EasyTube"><b>Código</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/LucianoFlores1/control-remoto-pc-celular"><img src="./assets/cards/control-remoto-pc.svg" alt="Control Remoto PC" width="100%"></a>
       <p align="center"><a href="https://github.com/LucianoFlores1/control-remoto-pc-celular"><b>Código</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/LucianoFlores1/Precios-hist-ricos-de-steam"><img src="./assets/cards/steam-precios.svg" alt="Precios Históricos Steam" width="100%"></a>
-      <p align="center"><a href="https://github.com/LucianoFlores1/Precios-hist-ricos-de-steam"><b>Código</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://eduflow-argentina.vercel.app"><img src="./assets/cards/eduflow-argentina.svg" alt="EduFlow Argentina" width="100%"></a>
-      <p align="center"><a href="https://eduflow-argentina.vercel.app"><b>▶ Demo</b></a> · <a href="https://github.com/LucianoFlores1/eduflow-argentina">Código</a></p>
+      <a href="https://fago-simulacion.vercel.app"><img src="./assets/cards/fago-simulacion.svg" alt="Fago Simulación" width="100%"></a>
+      <p align="center"><a href="https://fago-simulacion.vercel.app"><b>▶ Jugar</b></a> · <a href="https://github.com/LucianoFlores1/Fago-simulacion">Código</a></p>
     </td>
   </tr>
 </table>
@@ -64,7 +54,6 @@ Hago productos de punta a punta: **webs y apps con React / Next.js**, **apps And
 | Proyecto | Qué hace | Links |
 |---|---|---|
 | **CalculaHora** | Calcula cuánto cobrar por tramos de horas trabajadas en un día | [Demo](https://calcula-hora.vercel.app) · [Código](https://github.com/LucianoFlores1/CalculaHora) |
-| **Fago Simulación** | Simulación animada de la reproducción de un bacteriófago y la lisis celular | [Demo](https://fago-simulacion.vercel.app) · [Código](https://github.com/LucianoFlores1/Fago-simulacion) |
 | **Hackathon El Milagro** | Mini app para publicar animales perdidos y encontrados durante el Milagro en Salta | [Código](https://github.com/LucianoFlores1/hackathon-milagro) |
 | **Quincho El Milagro** | Landing page para un negocio familiar | [Demo](https://quincho-el-milagro.vercel.app) · [Código](https://github.com/LucianoFlores1/quincho-el-milagro) |
 | **Reproductor de música** | Reproductor de música para Android hecho en Flutter | [Código](https://github.com/LucianoFlores1/reproductor-musica) |
