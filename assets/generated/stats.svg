@@ -20,15 +20,15 @@
   <g stroke="#22D3EE" stroke-width="2.5" fill="none"><path d="M14 30 V14 H30"/><path d="M570 236 H586 V220"/></g>
   
   <text x="32" y="40" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="3" fill="#22D3EE">HI-SCORE · @LucianoFlores1</text>
-  <text x="568" y="40" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#64748B">act. 2026-10-06</text>
+  <text x="568" y="40" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#64748B">act. 2026-10-07</text>
   <g class="fade" style="animation-delay:0s" transform="translate(32 60)">
     <text font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#94A3B8">CONTRIBUCIONES</text>
     <text y="36" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">244</text>
     <text y="56" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#64748B">último año</text>
   </g><g class="fade" style="animation-delay:0.12s" transform="translate(170 60)">
-    <text font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#94A3B8">RACHA ACTUAL</text>
-    <text y="36" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">2d</text>
-    <text y="56" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#64748B">récord 7d</text>
+    <text font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#94A3B8">MEJOR RACHA</text>
+    <text y="36" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">7d</text>
+    <text y="56" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#64748B">días seguidos</text>
   </g><g class="fade" style="animation-delay:0.24s" transform="translate(308 60)">
     <text font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#94A3B8">REPOS PÚBLICOS</text>
     <text y="36" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">27</text>
